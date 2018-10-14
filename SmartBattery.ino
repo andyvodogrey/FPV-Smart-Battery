@@ -57,7 +57,6 @@ void loop() {
 	printVoltage(busvoltage, power_mW, current_mA);
 	delay(1000);
 	//display.clearDisplay();
-	attachInterrupt(0, pin2Interrupt, FALLING); //interrupt for waking up
 	enterSleep();
 }
 void printVoltage(float v, float mw, float ma){
@@ -144,7 +143,6 @@ void powerDownAllPins() {
 
 // TODO:
 /*
-#define LED_PIN 4
 void setup() {
 	pinMode(LED_PIN, OUTPUT);
 
