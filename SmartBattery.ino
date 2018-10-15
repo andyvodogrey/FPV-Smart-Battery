@@ -136,8 +136,7 @@ void powerDownAllPins() {
 	//Save Power by writing all Digital IO LOW
 	for (int i = 0; i < 20; i++) {
 		if (i != 2) //esclude pin 2 for interrupt
-			pinMode(i, OUTPUT);
-			digitalWrite(i, LOW);
+			pinMode(i, LOW);
 	}
 }
 
