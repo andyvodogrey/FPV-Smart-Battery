@@ -8,3 +8,4 @@ Prima versione dei collegamenti
 * Adafruit_SSD1306  [Click here](https://github.com/adafruit/Adafruit_SSD1306)
 
 ##### Questo progetto è adatto per i goggles FPV
+La smart battery sarà composta da un display oled dove verranno mostrati i consumi.
