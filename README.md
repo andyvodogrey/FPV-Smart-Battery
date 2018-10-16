@@ -6,3 +6,5 @@ Prima versione dei collegamenti
 * Adafruit_GFX      [Click here](https://github.com/adafruit/Adafruit-GFX-Library)
 * Adafruit_INA219   [Click here](https://github.com/adafruit/Adafruit_INA219)
 * Adafruit_SSD1306  [Click here](https://github.com/adafruit/Adafruit_SSD1306)
+
+##### Questo progetto è adatto per i goggles FPV
